@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "7f54fb7786d05aca5e9c97c48d17c85a"
+build_time: [528957513, 708273000]
+inputs:
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/MiniLovTap/SearchViewController.swift": [528956535, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/MiniLovTap/LovTapApiManager.swift": [528957513, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/MiniLovTap/SearchCell.swift": [528954132, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/MiniLovTap/SearchResult.swift": [528957438, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/MiniLovTap/AppDelegate.swift": [528953757, 0]

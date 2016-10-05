@@ -1,0 +1,6 @@
+framework module Pods_MiniLovTap {
+  umbrella header "Pods-MiniLovTap-umbrella.h"
+
+  export *
+  module * { export * }
+}

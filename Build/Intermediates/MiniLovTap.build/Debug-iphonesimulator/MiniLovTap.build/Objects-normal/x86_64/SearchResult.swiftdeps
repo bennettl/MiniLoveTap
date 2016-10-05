@@ -1,0 +1,52 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SearchResult"
+provides-nominal:
+- "C10MiniLovTap12SearchResult"
+provides-member:
+- ["C10MiniLovTap12SearchResult", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "SearchResult"
+- "AssignmentPrecedence"
+- "String"
+depends-member:
+- !private ["Ps9AnyObject", "id"]
+- !private ["Ps9AnyObject", "imageUrl"]
+- !private ["Ps9AnyObject", "name"]
+- ["Ps9AnyObject", ""]
+- ["SQ", "deinit"]
+- ["Sq", "deinit"]
+- ["C10MiniLovTap12SearchResult", "String"]
+- ["C10MiniLovTap12SearchResult", "deinit"]
+- ["C10MiniLovTap12SearchResult", "id"]
+- ["C10MiniLovTap12SearchResult", "imageUrl"]
+- ["C10MiniLovTap12SearchResult", "init"]
+- ["C10MiniLovTap12SearchResult", "name"]
+- ["SS", "deinit"]
+depends-nominal:
+- "Ps9AnyObject"
+- "SQ"
+- "Sq"
+- "C10MiniLovTap12SearchResult"
+- "SS"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+interface-hash: "330292ac4664e9e79e2a8b157c1d0591"

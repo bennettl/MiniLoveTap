@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "4dabbfda25b0bed006ce20029dbfe834"
+build_time: [528955546, 570716000]
+inputs:
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/AFError.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/Alamofire.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/MultipartFormData.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/Notifications.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/ParameterEncoding.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/Request.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/Response.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/ResponseSerialization.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/Result.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/ServerTrustPolicy.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/SessionDelegate.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/SessionManager.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/TaskDelegate.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/Timeline.swift": [528954864, 0]
+  "/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Pods/Alamofire/Source/Validation.swift": [528954864, 0]

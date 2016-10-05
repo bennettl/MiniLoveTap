@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/lee_bennett/Desktop/Playground/iOS/MiniLovTap/Build/Intermediates/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/unextended-module.modulemap',
+    }]
+  }]
+}
